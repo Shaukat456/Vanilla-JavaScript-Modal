@@ -56,6 +56,7 @@
   bottom: 0;
   background-color: rgba(0, 0, 0, .5);
   pointer-events: none;
+  transform:scale(2);
 }
 
 #overlay.active {
